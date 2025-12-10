@@ -1,7 +1,3 @@
-Absolutely! Here’s a **short, clean README** for your Motivation/Quotes App:
-
----
-
 # 💡 Motivation App
 
 A simple web app built with **FastAPI** that shows random motivational quotes.
