@@ -17,7 +17,7 @@ A simple web app built with **FastAPI** that shows random motivational quotes.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/motivation-app.git
+git clone https://github.com/r4in1y/motivation-app.git
 cd motivation-app
 python -m venv venv
 # Activate venv:
